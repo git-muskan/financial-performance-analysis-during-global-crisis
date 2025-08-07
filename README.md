@@ -10,6 +10,9 @@ The goal is to understand how companies across sectors (Tech, Healthcare, Financ
 
 ## Project Overview
 
+This project analyzes how five major companies— *AAPL, JNJ, JPM, PG, and XOM* —performed during three global crises: the 2008 Financial Crisis, the COVID-19 pandemic, and the 2022 Inflation & War period.
+Stock data was retrieved using the `yfinance` Python library, which pulls historical market data from Yahoo Finance.
+
 Using historical stock data from Yahoo Finance and economic timelines for each crisis, this project explores:
 
 - Volatility trends using rolling 30-day standard deviations
